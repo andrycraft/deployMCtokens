@@ -1,0 +1,11 @@
+name: PumpFunDummyPlugin
+main: com.pumpfun.plugin.PumpFunDummyPlugin
+version: 1.0.1
+api-version: 1.21
+commands:
+  deploytoken:
+    description: Simulate token deployment on pump.fun
+    usage: /<command> <TICKER> <Name>
+permissions:
+  pumpfun.deploytoken:
+    default: op
