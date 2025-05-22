@@ -1,5 +1,8 @@
 # PumpFunDummyPlugin
 
+![image](https://github.com/user-attachments/assets/fa97f34c-8084-43f7-84f8-5b7478a2c1df)
+
+
 PumpFunDummyPlugin is a lightweight Minecraft plugin that brings pump.fun token deployment directly into your server chat.
 
 ![Demo Screenshot](https://img.youtube.com/vi/_2iWarK1f44/0.jpg)
