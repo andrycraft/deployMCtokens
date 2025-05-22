@@ -54,6 +54,7 @@ PumpFunDummyPlugin is a lightweight Minecraft plugin that brings pump.fun token 
 Watch a quick demo on YouTube:  
 https://www.youtube.com/watch?v=_2iWarK1f44
 
+## Socials
 
 X - https://x.com/deployMCtokens
 Wiki - https://createanytoken.fandom.com/wiki/CREATEANYTOKEN_Wiki
